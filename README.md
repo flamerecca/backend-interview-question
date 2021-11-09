@@ -20,7 +20,7 @@ In this test, you have to fulfill all exceptions and complete tests successfully
 
 ### Setup
 
-1. [Create](https://github.com/voicetube/backend-interview-question/generate) new repository with this [template](https://github.com/voicetube/backend-interview-question/generate). (Please `DO NOT` use any words related to `VoiceTube`)
+1. [Create](https://github.com/voicetube/backend-interview-question/generate) new repository with this [template](https://github.com/voicetube/backend-interview-question/generate). 
 2. Run `docker-compose up -d --build`
 3. Run `docker-compose exec app php artisan migrate`
 4. Uncomment the lines in `routes/api.php` and create your class by the route list
